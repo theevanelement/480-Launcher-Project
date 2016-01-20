@@ -12,9 +12,7 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
-    </application>
-    
-    <activity
+          <activity
     android:name="ah.hathi.simplelauncher.HomeActivity"
     android:label="Simple Launcher Home"
     android:theme="@android:style/Theme.Wallpaper.NoTitleBar.Fullscreen"
@@ -33,5 +31,8 @@
     android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
     >            
 </activity>
+    </application>
+    
+  
 
 </manifest>
